@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrevIst</string>
+    <string name="title_activity_list_ists">IST</string>
+    <string name="title_activity_questionnaire">Questionnaire</string>
+    <string name="title_activity_map_centres">Centres de dépistage</string>
+    <string name="title_activity_list_faq">Comment me protéger</string>
+</resources>
